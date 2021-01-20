@@ -1,0 +1,63 @@
+{
+  "layout": {
+    "header": {
+      "navigation": {
+        "prices": "Prices",
+        "location": "Location",
+        "contacts": "Contacts",
+        "about-us": "About Us"
+      }
+    }
+  },
+  "routes": {
+    "about-us": {
+      "tab": " About Us",
+      "description": "GamePort Gaming Club was founded in October 2020. The club has three play areas: computer, PlayStation and VR. The computer area has 10 fully equipped play areas. The club is open daily from 10 AM to 10 PM.",
+      "computers": {
+        "title": "Technical parameters of computers",
+        "monitor": "Monitor",
+        "keyboard": "Keyboard",
+        "mouse": "Mouse",
+        "headset": "Headset",
+        "processor": "Processor",
+        "ram": "RAM",
+        "gpu": "GPU"
+      }
+    },
+    "contacts": {
+      "tab": "Contacts",
+      "header": "Contacts",
+      "phone": "Contact phone",
+      "socials": "Our socials",
+      "inst": "Instagram",
+      "vk": "VK"
+    },
+    "location": {
+      "tab": "Location",
+      "header": "How to find us?",
+      "description": "GamePort is located at st. Artillery, 6, 2nd floor"
+    },
+    "prices": {
+      "tab": "Prices",
+      "header": "Prices",
+      "computers": {
+        "header": "Computer area",
+        "1st": "1 hour — 3 BYN",
+        "2nd": "3 hours — 8 BYN",
+        "3rd": "5 hours — 13 BYN"
+      },
+      "playstation": {
+        "header": "PlayStation area",
+        "1st": "1 hour — 5 BYN",
+        "2nd": "2 hours — 9 BYN",
+        "3rd": "3 hours — 13 BYN"
+      },
+      "vr": {
+        "header": "VR area",
+        "1st": "30 minutes — 6 BYN",
+        "2nd": "1 hour — 10 BYN",
+        "3rd": "1 hour 30 minutes — 13 BYN"
+      }
+    }
+  }
+}
