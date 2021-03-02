@@ -12,7 +12,7 @@
   "routes": {
     "about-us": {
       "tab": " About Us",
-      "description": "GamePort Gaming Club was founded in October 2020. The club has three play areas: computer, PlayStation and VR. The computer area has 10 fully equipped play areas. The club is open daily from 10 AM to 10 PM.",
+      "description": "GamePort Gaming Club was founded in October{{nonBrakingSpace}}2020. The club has three play areas: computer, PlayStation and{{nonBrakingSpace}}VR. The computer area has 10 fully equipped play{{nonBrakingSpace}}areas. The club is open daily from 11{{nonBrakingSpace}}AM to 10{{nonBrakingSpace}}PM.",
       "computers": {
         "title": "Technical parameters of computers",
         "monitor": "Monitor",
@@ -35,7 +35,7 @@
     "location": {
       "tab": "Location",
       "header": "How to find us?",
-      "description": "GamePort is located at st. Artillery, 6, 2nd floor"
+      "description": "GamePort is located at st.{{nonBrakingSpace}}Sovetskaya, 26a, 3rd{{nonBrakingSpace}}floor, room{{nonBrakingSpace}}3-2 (entrance from the yard)"
     },
     "prices": {
       "tab": "Prices",
